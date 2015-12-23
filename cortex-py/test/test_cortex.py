@@ -1,5 +1,5 @@
 import time
-import cortex
+from cortex import *
 
 
 class MyDataHandler:
